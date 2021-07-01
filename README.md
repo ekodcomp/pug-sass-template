@@ -1,6 +1,8 @@
 # 動作確認済みバージョン
 Windows
+
 node : v14.17.1
+
 npm : 6.14.13
 
 # package.jsonでモジュールの一括インストール
